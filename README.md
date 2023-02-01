@@ -2,3 +2,4 @@
 
 ## 📋 Profile
 I'm just someone that like to code and is aspiring to become a web developer
+![](https://komarev.com/ghpvc/?username=Kiyumiii&color=ffb7c5)
